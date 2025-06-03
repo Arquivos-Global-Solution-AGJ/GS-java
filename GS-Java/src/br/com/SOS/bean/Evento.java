@@ -65,6 +65,6 @@ public class Evento {
         return 0;
     }
     public String calcularForca(int pessoasAfetadas){
-        return 0;
+        return null;
     }
 }
